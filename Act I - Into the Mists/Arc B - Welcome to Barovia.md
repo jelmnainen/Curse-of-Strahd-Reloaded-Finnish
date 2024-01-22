@@ -1,6 +1,6 @@
 *An adventure for five 3rd-level characters.*
 
-In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood on the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster. 
+In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When a disguised wereraven guides them to the Blood on the Vine Tavern, they meet Ismark, the eldest child of the village’s recently deceased burgomaster.
 
 In exchange for food, shelter, information, and assistance against Strahd, Ismark asks the players to escort his sister Ireena—a target of Strahd’s interest—to St. Andral’s Church in the walled town of Vallaki to the west, where he believes she will be safe. Ismark is soon approached by "Mad Mary," a villager whose daughter, Gertruda, has recently left the village in search of her betrothed.
 
@@ -12,7 +12,7 @@ Upon delivering the Burgomaster's coffin to the church the following dawn, the p
 
 The journey from [[Arc A - Escape From Death House#A3. Outside Death House|the tower]] to [[#B2. Gates of Barovia]] is nineteen-and-a-half miles long and takes six-and-a-half hours.
 
-This scene largely unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>. However, shortly before the end of the players' seventh hour of travel, read: 
+This scene largely unfolds as described in <span class="citation">Old Svalich Road (p. 33)</span>. However, shortly before the end of the players' seventh hour of travel, read:
 
 <div class="description">
 <p>Heavy mists roll in across the road, creeping between the weather-worn trees like gnarled, ghostly fingers. The air carries an unnatural chill, and the hush of silence falls over the woods like a burial shroud.</p>
@@ -77,7 +77,7 @@ Upon emerging from the fog, the players can see a fourth tree, which bears anoth
 <p>"THE SEER SPOKE TRUE."</p>
 </div>
 
-If the players follow the footpath in the direction of the arrow, they find that it crosses the Svalich Road before returning to the location of Dalvan's corpse. 
+If the players follow the footpath in the direction of the arrow, they find that it crosses the Svalich Road before returning to the location of Dalvan's corpse.
 
 If the players then leave Dalvan's corpse and return, they find that both his and the horse's remains have vanished.
 # B4. Barovian Overlook
@@ -113,13 +113,13 @@ The players do not encounter Morgantha, the **night hag** peddler, while explori
 
 > [!lore]+ **What Barovians Know: The Rebellion & The Siege**
 > Residents and recent refugees from the village of Barovia, as well as the Vistani of Tser Pool and Vallaki, know the following information about Doru's rebellion and Strahd's ensuing siege:
-> 
-> * Just over three months ago, the priest's son, Doru, led a rebellion against Castle Ravenloft. Many of the village's youth followed him, swayed by his promises that the vampire's death would return sunlight to the valley and banish the Mists.
+>
+> * Just over three months ago, the priest's son, Doru, led a rebellion against Varisylisen linna. Many of the village's youth followed him, swayed by his promises that the vampire's death would return sunlight to the valley and banish the Mists.
 > * Doru and his followers never returned. Instead, shortly after his rebellion departed, an elf named Rahadin rode to the village and warned that the villagers had one hundred days to make peace with the Morninglord before Strahd's wrath fell upon them.
 > * Some Barovians fled for Vallaki, but most others remained, persuaded by the words of Ismark Kolyanovich—the son of Burgomaster Kolyan Indirovich—who vowed to lead them in defending their homes.
 > * When the hundred days were up, dozens and dozens of undead laid siege to the village, returning to attack each night. They were led by a strange, pale undead that seeped a reddish mist, its victims becoming undead like the others.
 > * After several days of fighting, a particularly brutal attack left dozens of villagers dead or wounded, including Burgomaster Indirovich. The villagers aren't sure why, but Strahd's forces withdrew shortly thereafter.
->   
+>
 >  Residents of Vallaki and Krezk know only that a rebellion occurred and failed, and that Strahd laid waste to the village of Barovia in his counterstroke. Most blame the villagers of Barovia for reawakening Strahd, whose emergence has plunged the valley once more into darkness.
 
 ## B5b. The Blood on the Vine Tavern
@@ -129,14 +129,14 @@ This area is largely as described in <span class="citation">Blood of the Vine Ta
 
 <div class="description">
 <p>An old, chipped stone statue stands at the center of this town square, depicting a man wearing leather armor and holding a sword.</p>
-</div> 
+</div>
 
-The statue bears a weather-worn plaque at its base. It reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C.” (“B.C.” stands for “Barovian Calendar.”) 
+The statue bears a weather-worn plaque at its base. It reads: “ISMARK ANTONOVICH THE GREAT. Burgomaster of Barovia. Bane of Vampires. 618—662 B.C.” (“B.C.” stands for “Barovian Calendar.”)
 ![[Ismark the Great.png]]
 ### Entering the Tavern
-Instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. Alenka, Mirabel, and Sorvia are merely patrons, visiting from Tser Pool to drink and gather news. 
+Instead of Alenka, Mirabel, and Sorvia—the three Vistani found here in the original module—Arik is the sole owner and proprietor of the tavern. Alenka, Mirabel, and Sorvia are merely patrons, visiting from Tser Pool to drink and gather news.
 
-When the players enter, these Vistani eye them with brief interest, but soon return to their drinks, departing the tavern soon after. (Alenka and Mirabel return to Tser Pool. Sorvia, a spy for Strahd, travels to Castle Ravenloft to report that new outsiders have entered Barovia.)
+When the players enter, these Vistani eye them with brief interest, but soon return to their drinks, departing the tavern soon after. (Alenka and Mirabel return to Tser Pool. Sorvia, a spy for Strahd, travels to Varisylisen linna to report that new outsiders have entered Barovia.)
 
 As the PCs speak with Arik, Ismark approaches, offers to pay for their drinks, and invites them to his table. He notes that the players appear to be newcomers to Barovia, apologizes for the state of the village, and asks how they've come to arrive in the valley. "You must have a thousand questions," he says sympathetically. "I'd be glad to answer as many as I can."
 
@@ -165,27 +165,27 @@ As the players drink, [[Non-Player Characters#Ismark Kolyanovich|Ismark]] can sh
 
 Ismark can also share the following information:
 
-* The players have entered the land of Barovia, a realm surrounded by deadly fog and ruled by Strahd von Zarovich, a powerful vampire who slumbered in Castle Ravenloft until recently.
+* The players have entered the land of Barovia, a realm surrounded by deadly fog and ruled by Strahd von Zarovich, a powerful vampire who slumbered in Varisylisen linna until recently.
 * Outsiders are occasionally spirited into Barovia by the mists. (Ismark has no knowledge of Death House, but vaguely remembers tales of unorthodox ways by which travelers have come to the valley.) There is no escaping Barovia once an outsider has entered it.
 * The village of Barovia was recently decimated by a siege from Strahd's undead forces. While the undead were dispatched, the village suffered heavily, and many Barovians fled to Vallaki, a fortified town to the west. Many are still missing, and Ismark has had to dispatch several search parties across the nearby woods in search of survivors.
-* All Barovians call Strahd “the Devil,” fearing that speaking his name gives him power and draws his attention. (This is a myth.) Ismark is unsure whether he believes this, but warns the players that Strahd’s spies are thought to be always watching— bats, wolves, and even human servants, including some among the Vistani. 
-* St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Ismark hopes to bring his sister, Ireena there, but is currently unable to due to his duties as his father's successor. 
+* All Barovians call Strahd “the Devil,” fearing that speaking his name gives him power and draws his attention. (This is a myth.) Ismark is unsure whether he believes this, but warns the players that Strahd’s spies are thought to be always watching— bats, wolves, and even human servants, including some among the Vistani.
+* St. Andral’s Church in Vallaki is said to be hallowed ground, protecting its congregants from vampires and other undead. Ismark hopes to bring his sister, Ireena there, but is currently unable to due to his duties as his father's successor.
 
-If the players ask why Ismark hopes to bring Ireena to St. Andral's Church, he first swears them to secrecy. He then shares, in a hushed voice, that a vampire from Castle Ravenloft has haunted the grounds around their home in recent days. "I think the creature caught sight of her during the siege," he says, quietly. "I didn't want to panic the village, but I'm concerned that Barovia is no longer safe for her." (Ismark admits that the vampire is Strahd if confronted, but otherwise makes no mention of the vampire's identity.)
+If the players ask why Ismark hopes to bring Ireena to Pyhän andralin kirkko, he first swears them to secrecy. He then shares, in a hushed voice, that a vampire from Varisylisen linna has haunted the grounds around their home in recent days. "I think the creature caught sight of her during the siege," he says, quietly. "I didn't want to panic the village, but I'm concerned that Barovia is no longer safe for her." (Ismark admits that the vampire is Strahd if confronted, but otherwise makes no mention of the vampire's identity.)
 
 If the players ask about the statue outside the tavern, Ismark can share the following information:
- 
-* In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor. 
+
+* In life, Ismark Antonovich, also known as Ismark the Great, was a mighty warrior and the burgomaster of the village of Barovia. In his prime, he fought scores of vampires and other undead left behind when Strahd vanished from public view. He eventually died defending a group of trappers from a dire wolf attack at the age of 44, and the statue outside was erected in his honor.
 * Ismark Antonovich was Ismark Kolyanovich's great-grandfather. Ismark's father gave him that name in the hopes that he would one day become a great warrior.
 
-Ismark doesn't believe that the players will be able to find either answers or protection in the village of Barovia, but suggests that they might find both in the town of Vallaki to the west. In the meantime, he is glad to offer the players room and board at his own home. (The Blood on the Vine Tavern doesn't have rooms for rent.) 
+Ismark doesn't believe that the players will be able to find either answers or protection in the village of Barovia, but suggests that they might find both in the town of Vallaki to the west. In the meantime, he is glad to offer the players room and board at his own home. (The Blood on the Vine Tavern doesn't have rooms for rent.)
 
-If the players indicate an interest in traveling to Vallaki, he asks if they would allow Ireena to accompany them, escorting her to St. Andral's Church in Vallaki.
+If the players indicate an interest in traveling to Vallaki, he asks if they would allow Ireena to accompany them, escorting her to Pyhän andralin kirkko in Vallaki.
 
 > [!warning]+ **Clarifying Expectations**
-> 
+>
 > *Curse of Strahd: Reloaded* is a campaign about heroes. It's also a campaign about making allies, and the bonds and strength that grow from those alliances.
-> 
+>
 > As such, while Ireena is not an essential NPC to the campaign, a party that declines Ismark's request likely has mismatched expectations with the type of campaign you plan to run. If the players refuse to escort Ireena to Vallaki, pause the game and check in with them to clarify and confirm expectations. If the players are still reluctant to bring Ireena with them, ask questions and discuss the issue further before resuming the game.
 ### Bildrath's Fury
 Shortly after Ismark begins answering the players' questions, read:
@@ -200,8 +200,8 @@ If asked about Bildrath's statement about "the last fools that trusted him," Ism
 
 Should one or more of the players join him, Bildrath can share the following information:
 
-* Just over three months ago, a pack of would-be "revolutionaries" marched off to Castle Ravenloft to "slay the vampire." Doru, the son of Father Donavich, the village priest, "filled their heads with fairy tales" of banishing the Mists and bringing the Sun back to Barovia.
-* None of the revolutionaries ever came back. A few days later, a dusk-skinned elf came to the village and announced that the village had ninety days to make peace with the gods before the the lord of Castle Ravenloft—now awoken after a hundred years of slumber—exacted penance for their disobedience.
+* Just over three months ago, a pack of would-be "revolutionaries" marched off to Varisylisen linna to "slay the vampire." Doru, the son of Father Donavich, the village priest, "filled their heads with fairy tales" of banishing the Mists and bringing the Sun back to Barovia.
+* None of the revolutionaries ever came back. A few days later, a dusk-skinned elf came to the village and announced that the village had ninety days to make peace with the gods before the the lord of Varisylisen linna—now awoken after a hundred years of slumber—exacted penance for their disobedience.
 * Some villagers left. Many others wanted to leave. However, Ismark delivered a resounding speech in the village square before the statue of Ismark the Great, promising the villagers that those who remained would stand and defend their homes. "The audacity of the bastard," Bildrath sneers. "Standing in front of his great-grandfather's statue like he was worth a *tenth* of him."
 * Bildrath wanted to leave—but his sister, Marta, and her husband, Dragomir, chose to stay with their son, Parriwimple, inspired by Ismark's words. Unwilling to leave his family, Bildrath stayed as well. "They figured they'd fight to defend what's theirs," he chokes out, blinking back tears. "Bloody *idiots* should've run, and never looked back."
 * One hundred days after the elf delivered his proclamation, the undead came, swarming in hordes dozens strong from the Svalich Wood. The villagers fought back, defending the streets with barricades, swords, and arrows. "But the dead kept coming," Bildrath croaks. "And Marta—" He falls silent. (Bildrath lost Marta and Dragomir in the attacks, and blames Ismark for his failure to protect them.)
@@ -235,8 +235,8 @@ Once calmed, Mary wipes her eyes, thanks Ismark (and the players, if they comfor
 
 > [!lore]+ **Where's Gertruda?**
 > Gertruda, despairing at the state of the village and determined to show the same courage as Doru, left Barovia for Vallaki the morning of the players' arrival, seeking to secure aid and supplies. However, if the players speak with the Barovian refugees or guards at Vallaki's gates in [[Arc C - Into the Valley#C11a. The Vallakian Gates|C11a. The Vallakian Gates]], they can learn that Gertruda never made it to Vallaki.
-> 
-> Instead, Strahd's black carriage found Gertruda along the Old Svalich Road. Recognizing him, a trembling Gertruda demanded he make good on his obligations as Barovia's liege-lord, providing for the safety and repairs the village so desperately needed. Impressed by her audacity and courage, Strahd invited her to Castle Ravenloft to discuss the matter further—and she has remained there ever since.
+>
+> Instead, Strahd's black carriage found Gertruda along the Old Svalich Road. Recognizing him, a trembling Gertruda demanded he make good on his obligations as Barovia's liege-lord, providing for the safety and repairs the village so desperately needed. Impressed by her audacity and courage, Strahd invited her to Varisylisen linna to discuss the matter further—and she has remained there ever since.
 ## B5c. The Burgomaster’s Mansion
 <span class="citation"><em>This scene takes place in Chapter 3: Area E4.</em></span>
 
@@ -244,7 +244,7 @@ This area is largely as described in <span class="citation">Burgomaster’s Mans
 
 When the players arrive, Ismark directs them to knock on the door to "let Ireena know they're here." If they do, the following events then occur:
 
-* The players hear the sound of footsteps approaching from the far side of the door. 
+* The players hear the sound of footsteps approaching from the far side of the door.
 * A small peephole on the door opens, allowing a woman's eye to peer through.
 * The peephole closes, and the players can hear someone unlocking a trio of locks.
 * The door opens, revealing Ireena Kolyana on the opposite side. "Guests, Ismark?" she asks, raising an eyebrow.
@@ -271,7 +271,7 @@ When the players arrive, Ismark directs them to knock on the door to "let Ireena
 > ***Morale.*** In a fight, Ireena will always turn to words before a sword. If necessary to defend herself, though, she'll draw her rapier—reluctantly, if protecting herself, and proudly, if protecting another.
 >
 > ***Relationships.*** Ireena is the (knowing) adopted sister of Ismark Kolyanovich, the (unknowing) sister of Izek Strazni, and the (unknowing) reincarnation of Tatyana Federovna.
-### The Argument 
+### The Argument
 [[Non-Player Characters#Ireena Kolyana|Ireena]] is surprised to see the players and assumes them at first to be merely travelers. If [[Non-Player Characters#Ismark Kolyanovich|Ismark]] informs her that they are to escort her to Vallaki, however, Ireena asks the players to excuse them and has a brief conversation with Ismark in private.
 
 The entire conversation takes no more than five minutes. If the players do not choose to listen in, they are free to wander around the manor, talk amongst themselves, or simply wait for Ireena and Ismark to finish.
@@ -309,8 +309,8 @@ If the players are looking to purchase additional supplies, Ireena offers them d
 If the players ask about Doru's rebellion, Ireena can share the following information:
 
 * Doru was a friend of theirs, and the son of the village priest Father Donavich. He was a bright and cheery young man, with a sunny disposition and a zeal for everything he did.
-* Just over three months ago, without warning, Doru announced a crusade against Castle Ravenloft, which he proclaimed would free Barovia from the mists and return sunlight to the valley. Over two dozen young Barovians accompanied him, as well as a scholar from distant lands named Alanik Ray, who had been staying as a guest at Ismark and Ireena's home for the previous several weeks while studying Barovian history and ecology. 
-* Ireena doesn't recall much about Alanik, other than that he was a curious, somewhat intense man who kept to himself, took long walks into the Svalich Woods, and owned a pet monkey. She does remember, however, that he had a furious argument with Doru at one point, which confused her when he accompanied Doru to Castle Ravenloft shortly thereafter.
+* Just over three months ago, without warning, Doru announced a crusade against Varisylisen linna, which he proclaimed would free Barovia from the mists and return sunlight to the valley. Over two dozen young Barovians accompanied him, as well as a scholar from distant lands named Alanik Ray, who had been staying as a guest at Ismark and Ireena's home for the previous several weeks while studying Barovian history and ecology.
+* Ireena doesn't recall much about Alanik, other than that he was a curious, somewhat intense man who kept to himself, took long walks into the Svalich Woods, and owned a pet monkey. She does remember, however, that he had a furious argument with Doru at one point, which confused her when he accompanied Doru to Varisylisen linna shortly thereafter.
 
 If the players ask about her parents, Ireena freely shares the following information while asking after the players' own families:
 
@@ -349,12 +349,12 @@ If the players appear suspicious of Madam Eva's motives, she says, "Your fates a
 
 If the players ask for directions to Tser Pool, Madam Eva says only, "I am not far. Travel west. The path to my tent begins at a place of death."
 
-Soon after Madam Eva delivers her warning, the "light" in the tent visibly dims, as though a shroud of darkened mist has descended upon it. In response, Madam Eva stirs and says, "He has sensed me. He cannot know of our meeting. Fly, travelers! I shall await you at Tser Pool!" 
+Soon after Madam Eva delivers her warning, the "light" in the tent visibly dims, as though a shroud of darkened mist has descended upon it. In response, Madam Eva stirs and says, "He has sensed me. He cannot know of our meeting. Fly, travelers! I shall await you at Tser Pool!"
 
-The players then violently awaken, hearts beating fast and covered in sweat. Outside, the pale, ethereal light of the March of the Dead—as described in <span class="citation">March of the Dead (p. 48)</span> and just now beginning the march to Castle Ravenloft—is visible from the Old Svalich Road. The players can also see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
+The players then violently awaken, hearts beating fast and covered in sweat. Outside, the pale, ethereal light of the March of the Dead—as described in <span class="citation">March of the Dead (p. 48)</span> and just now beginning the march to Varisylisen linna—is visible from the Old Svalich Road. The players can also see two **swarms of bats**—Strahd's spies—gathered on the eaves of a nearby house, watching silently from the darkness.
 
 > [!lore] **Who Knows of Madam Eva?**
-> All Barovians know that the Vistani have a semi-permanent camp at Tser Pool. Only some, however—as well as most residents of the village of Barovia—know that the camp is led by the crone Madam Eva, who the Vistani claim to be a powerful fortuneteller and seer. Although few Barovians hold Madam Eva in high regard, some have made the journey to Tser Pool in the past, seeking her wisdom in matters of love, sickness, or death. 
+> All Barovians know that the Vistani have a semi-permanent camp at Tser Pool. Only some, however—as well as most residents of the village of Barovia—know that the camp is led by the crone Madam Eva, who the Vistani claim to be a powerful fortuneteller and seer. Although few Barovians hold Madam Eva in high regard, some have made the journey to Tser Pool in the past, seeking her wisdom in matters of love, sickness, or death.
 ### Waking Up
 [[Non-Player Characters#Ismark Kolyanovich|Ismark]] rouses the players shortly before dawn, gathering them to deliver the burgomaster’s remains to Barovia’s church. Ireena, already dressed and waiting in the foyer, greets them warmly as they descend the stairs.
 
@@ -396,14 +396,14 @@ The young man is Parriwimple, described further in <span class="citation">E1. Bi
 
 Parriwimple can share the following information with the players:
 
-* Father Donavich used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors. 
+* Father Donavich used to be a kind and friendly man, always ready to share a word of wisdom or a warm crabapple pie with visitors.
 * Ever since the siege started, however, Donavich has shut himself inside the church and turned away visitors more often than not. When Parriwimple last saw him three days ago, Donavich looked like he hadn’t slept or bathed in a week.
 * Father Donavich hasn’t worn his holy symbol (a bronze sunburst) since the rebellion, which Parriwimple considers odd. (Parriwimple always loved how the light would glint off of its surface, and adored hearing Donavich’s son, Doru, tell stories of how the sun once shone in Barovia.)
-* Parriwimple misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. (Parriwimple also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Castle Ravenloft, Parriwimple hopes that he somehow survived.
+* Parriwimple misses Doru, who left to lead the rebellion against Strahd three months ago alongside the stranger, Alanik. (Parriwimple also misses Alanik’s pet monkey, which he loved to play with.) Despite his uncle telling him that Doru died at Varisylisen linna, Parriwimple hopes that he somehow survived.
 
-Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing. 
+Parriwimple won’t accompany the players inside of the church, but wishes them well and invites them to visit him at Bildrath’s Mercantile before departing.
 ### Inside the Church
-This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream: 
+This area is largely as described in <span class="citation">Church (p. 45)</span>. However, modify the descriptive text for <span class="citation">E5a. Hall (p. 45)</span> to remove Doru’s scream:
 
 <div class="description">
 <p>The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.</p>
@@ -418,7 +418,7 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 
 > [!lore]+ **A Recent History of the Church**
 >
-> Father Donavich was no supporter of Doru’s march on Castle Ravenloft. A mild and soft-spoken man, Donavich feared that Doru would meet only his end beyond the walls of the keep. To keep his son safe, however, and as a token of his love, Donavich gave Doru his holy symbol, as well as his blessing.
+> Father Donavich was no supporter of Doru’s march on Varisylisen linna. A mild and soft-spoken man, Donavich feared that Doru would meet only his end beyond the walls of the keep. To keep his son safe, however, and as a token of his love, Donavich gave Doru his holy symbol, as well as his blessing.
 >
 > Donavich’s holy symbol, however, did little to protect his son. When Strahd began his siege on the village of Barovia two weeks ago, his undead forces were not alone: Strahd also sent Doru, now a freshly turned **vampire spawn**, to terrorize the church and torment his father. Donavich barely managed to lure and trap Doru in the undercroft, where he remains imprisoned still.
 >
@@ -448,17 +448,17 @@ Doru does not cry out to his father when the players enter the chapel. Instead, 
 >
 > ***Relationships.*** Father Donavich is Doru’s father and the priest of the Barovian church.
 
-If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair. 
+If he learns that Ismark and Ireena are with the players, Donavich acts more warmly toward them and apologizes for the chapel’s state of disrepair.
 
 As the conversation unfolds, the following exchanges might occur:
 
 * If Ismark, Ireena, or a player asks about burying the deceased burgomaster, Father Donavich informs them that he would be glad to oversee a burial, but that he cannot perform the holy rites that would sanctify Kolyan’s remains. (Donavich is sorrowful to hear of Kolyan’s death, and expresses his condolences for his passing.)
-* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Castle Ravenloft.)
+* If Ismark, Ireena, or a player notes the damage done to the church, Father Donavich informs them that it was caused by a **vampire spawn** that attacked amidst the siege—the undead husk of his son, Doru. (Both Ismark and Ireena are shocked and horrified to learn of Doru's fate, having believed he died at Varisylisen linna.)
 * If Ismark, Ireena, or a player informs him that Gertruda (Doru's betrothed) has gone missing, Father Donavich mourns her and murmurs a quiet prayer that the Morninglord keep and protect her soul.
 
 If the players inquire further, Donavich can share the following information:
 
-* When Doru set off for Castle Ravenloft, Father Donavich gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
+* When Doru set off for Varisylisen linna, Father Donavich gave him his holy symbol of the Morninglord—a bronze sunburst on a leather cord—to keep him safe in the face of darkness. When Doru failed to return, however, Donavich feared the worst.
 * Two weeks ago, as the siege was beginning, Doru returned to the church at midnight, now transformed into a **vampire spawn**. Donavich managed to lure Doru into the undercroft and trap him there.
 * Ever since Doru returned, Donavich hasn’t been able to cast spells or feel the Morninglord’s presence. He believes that this is because Doru still has his holy symbol, and that Strahd’s foul influence has corrupted Donavich’s connection to the gods.
 * Donavich believes that his son is dead, and that the creature that wears his skin is a mockery that must be destroyed.
@@ -467,7 +467,7 @@ Donavich knows that he can’t defeat Doru and can’t bear to see his son’s f
 
 If the players agree, Donavich produces the key to the to the padlock in <span class="citation">E5d. Trapdoor (p. 45)</span> and allows them to enter. (Ismark remains upstairs with Ireena, reluctant to expose her to a vampire—even Doru—but promises the players that he will join them should Doru prove too dangerous for them to handle. A DC 12 Wisdom (Insight) check reveals that he also appears too horrified by Doru's fate to face him directly.)
 ### Descent to the Undercroft
-The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows: 
+The undercroft is largely as described in <span class="citation">E5g. Undercroft (p. 47)</span>. However, modify the last sentence of the description as follows:
 
 <div class="description">
 <p>Candlelight from the chapel above slips through the cracks, but there's no sign of any creature in the gloom.</p>
@@ -520,16 +520,16 @@ Doru’s request is simple: to prove to himself that he can control his vampiric
 
 Doru can also share the following information with the players if asked:
 
-* As a child, Doru was enraptured by stories of the sun and the light and hope that it once brought to the valley. As he grew older, he learned swordsmanship from Ismark and studied the book *Van Richten’s Guide to Vampires* to learn how to destroy the undead. He dreamed of one day destroying the Devil of Castle Ravenloft and bringing freedom to his people.
+* As a child, Doru was enraptured by stories of the sun and the light and hope that it once brought to the valley. As he grew older, he learned swordsmanship from Ismark and studied the book *Van Richten’s Guide to Vampires* to learn how to destroy the undead. He dreamed of one day destroying the Devil of Varisylisen linna and bringing freedom to his people.
 * Sixteen weeks ago, a foreign scholar calling himself Alanik Ray arrived in Barovia and rented a room in the burgomaster's manor. When an enormous undead dire wolf attacked a group of children who had strayed too far from the village, however, Doru alone saw "Alanik" fend it off with expert skill—and when the wolf knocked the hat off of "Alanik's" head, his appearance magically changed, revealing him to be the legendary vampire hunter Dr. Rudolph van Richten.
-* Doru confronted him and insisted that Van Richten lead the village in revolt against Castle Ravenloft. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named Escher—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
+* Doru confronted him and insisted that Van Richten lead the village in revolt against Varisylisen linna. Though Van Richten was reluctant at first, he eventually agreed—on the condition that Doru allow him to keep his disguise. Two days later, Doru, aided by a man named Escher—the village bard and Doru’s oldest friend—had assembled more than two dozen fighters to march on the keep.
 * With Van Richten’s aid, the mob struck down any undead guards that tried to stand in their way. However, when they finally opened Strahd’s crypt, Escher was nowhere to be found—and Strahd’s coffin was empty. (If asked, Doru forcefully denies that Escher betrayed them.)
-* Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that Escher had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later. 
-* Doru spent nearly three months at Castle Ravenloft, during which Strahd repeatedly forced him to drink the blood of his former companions. Two weeks ago, Strahd commanded Doru to return to the church and his father. 
+* Shortly thereafter, Strahd emerged from the shadows and attacked the mob with merciless force. Most of Doru’s companions were slain. Doru himself was turned into a vampire spawn, and later learned that Escher had been as well. Doru doesn’t know what happened to Van Richten, but was forced to confess the old man’s identity when Strahd interrogated him later.
+* Doru spent nearly three months at Varisylisen linna, during which Strahd repeatedly forced him to drink the blood of his former companions. Two weeks ago, Strahd commanded Doru to return to the church and his father.
 * Doru can’t disobey Strahd’s direct orders, and can feel his presence at all times. His vampiric bloodthirst is a constant distraction, and it’s difficult to control his predatory urges and instincts. When he first returned to the church, he was almost grateful that his father had locked him in the undercroft, where he couldn’t do any harm.
 * Doru doesn’t know if his soul or body can be saved, but he’s kept his father’s holy symbol to remind him of his faith and family, and to steel his will against the addictions of his new form. If not for that, he suspects that he would have lost control days or even weeks ago. (Doru doesn’t know why Strahd allowed him to keep it, but suspects that Strahd viewed it as a form of ironic amusement.)
 
-If the players ask about his argument with "Alanik," Doru admits, shamefacedly, that he forced Van Richten to accompany his rebels to the castle, threatening to march on Castle Ravenloft with or without Van Richten's help. (An enraged Van Richten ripped out the preface of Doru's copy of *Van Richten's Guide to Vampires*—which Doru bought from a Vistani caravan ten years prior—in order to make a point. "He warned me that faith and books meant nothing in the face of true evil," Doru murmurs. "I should have listened." Doru isn't sure what happened to the rest of the book.)
+If the players ask about his argument with "Alanik," Doru admits, shamefacedly, that he forced Van Richten to accompany his rebels to the castle, threatening to march on Varisylisen linna with or without Van Richten's help. (An enraged Van Richten ripped out the preface of Doru's copy of *Van Richten's Guide to Vampires*—which Doru bought from a Vistani caravan ten years prior—in order to make a point. "He warned me that faith and books meant nothing in the face of true evil," Doru murmurs. "I should have listened." Doru isn't sure what happened to the rest of the book.)
 
 As the conversation continues, Doru might ask the players:
 
@@ -537,6 +537,7 @@ As the conversation continues, Doru might ask the players:
 * whether Doru’s betrothed, Gertruda, survived the siege.
 
 If told that Gertruda has left the village alone for Vallaki—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught, but hopes aloud that she made the journey safely. He asks the players to look out for her and help bring her home should they find her. Doru feels that he has earned his fate, but believes that Gertruda, a good and compassionate woman, deserves far better.
+If told that Gertruda has left the village for Varisylisen linna—likely in a misguided effort to save Doru himself—Doru becomes visibly distraught with guilt and regret, despairing at the thought that she might already be dead. Though he doesn’t ask them to travel to Varisylisen linna, he asks the players to look out for her—and bring her home should they find her. Doru feels that he has earned his fate, but believes that Gertruda, a good and compassionate woman, deserves far better.
 ### Doru's Trial
 If the players agree to fulfill Doru’s request by exposing him to fresh blood, he asks them to remain silent while he resists—and to strike him down if he succumbs. When the trial begins, read the following:
 
@@ -567,9 +568,14 @@ If the players return to Father Donavich with his holy symbol in hand, he accept
 If the players tell Father Donavich that they killed Doru to obtain the symbol, read:
 
 <div class="description">
-<p>Donavich's eyes well up with tears as he clasps the symbol in his hands, holding it so tightly his knuckles begin to turn white. A strangled sob escapes him as he sinks to his knees, cradling the sunburst like an infant. </p>
-<p>"My boy—my dear, precious boy," he murmurs, his voice barely above a whisper. "May the Morninglord forgive me for what I've done—and for what I couldn't do." </p>
-<p>He swallows and his face tenses, his expression growing as hard as stone. "It had to be done. For his sake—and ours."</p>
+<p>Donavichin silmät täyttyvät kyynelistä, kun hän puristaa symbolia käsissään. Hän pitää sitä niin tiukasti kiinni, että hänen rystynsä alkavat muuttua valkoisiksi. Hän nyyhkäisee heikosti vajotessaan polvilleen ja halaa auringonpaisteen symbolia kuin pientä vauvaa.
+</p>
+<p>
+"Poikani – rakas, kallisarvoinen poikani", hän mutisee tuskin kuiskausta kovempaa. "Aamuherra antakoon minulle anteeksi sen, mitä olen tehnyt - ja sen, mitä en voinut tehdä."
+</p>
+<p>
+Hän nielee ja hänen kasvonsa jännittyvät, hänen ilmeensä kovettuu kovaksi kuin kivi. "Se oli tehtävä. Hänen - ja meidän - vuoksemme."
+</p>
 </div>
 
 Otherwise, if the players spared Doru and relay his final message, read:
@@ -587,52 +593,53 @@ The cemetery is as described in <span class="citation">E6. Cemetery (p. 48)</spa
 Upon entering the cemetery, Donavich retrieves four shovels from a shed abuting the church and shares them with the players. When the grave is fully dug and dawn has begun, Donavich offers prayers to the Morninglord, asking for Kolyan’s deliverance in the following refrain:
 
 <div class="description" style="text-align: center;">
-<p>O Morninglord</p>
-<p>Lord of blessed light and patron of new beginnings</p>
-<p>We commend into thy mercy and thy radiance Master Kolyan Indirovich</p>
-<p>Now departed hence from us and gone evermore into your glory.</p>
-<p>We beseech thee to grant unto him thy mercy and everlasting peace</p>
-<p>As thou deliver'st him from this everlasting darkness into infinite light</p>
-<p>From pestilence into growth</p>
-<p>From shadow into day</p>
-<p>And from death into new life.</p>
-<p>Grant him entrance into Your land of light and joy</p>
-<p>In the fellowship of thy saints</p>
-<p>And the brilliance of thy presence</p>
-<p>By Your will and grace.</p>
+<p>Oi Aamuherra</p>
+<p>Siunatun valon herra, uusien alkujen suojelija</p>
+<p>Jätämme armosi huomaan Mestari Koljan Indirovitšin</p>
+<p>Joka on poistunut luotamme kohti sinun syleilyäsi.</p>
+<p>Pyydämme sinua antamaan hänelle armosi ja ikuisen rauhan</p>
+<p>Kun vapautat hänet tästä ikuisesta pimeydestä ikuiseen valoon</p>
+<p>Rutosta kasvuun</p>
+<p>Varjosta päivään</p>
+<p>Ja kuolemasta uuteen elämään.</p>
+<p>Päästä hänet Sinun valon ja ilon maahasi</p>
+<p>Ja Sinun loistokkaan olemuksesi luo</p>
+<p>Sinun tahtosi ja armosi kautta</p>
 </div>
 
-At the conclusion of Donavich’s prayer, any players who wish to may offer words, prayers, or tributes of their own. If he has recovered his holy symbol, Donavich first casts *gentle repose* to sanctify Kolyan’s remains. Donavich then directs the players to lower the coffin into the ground. 
+At the conclusion of Donavich’s prayer, any players who wish to may offer words, prayers, or tributes of their own. If he has recovered his holy symbol, Donavich first casts *gentle repose* to sanctify Kolyan’s remains. Donavich then directs the players to lower the coffin into the ground.
 
-With the burial concluded, Strahd’s bats take off into the air, vanishing up into the mist surrounding the base of Castle Ravenloft.
+With the burial concluded, Strahd’s bats take off into the air, vanishing up into the mist surrounding the base of Varisylisen linna.
 
-Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Ireena plans to remain in Barovia now that the Devil has awoken. If told that Ireena and the players intend to leave, Donavich suggests the Abbey of St. Markovia in Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
+Donavich takes the bats’ presence as a bad omen. In a surprisingly lucid moment, he warns the players and Ismark of a Barovian superstition that young women with red hair often find that ill luck travels beside them, and asks if Ireena plans to remain in Barovia now that the Devil has awoken. If told that Ireena and the players intend to leave, Donavich suggests the Pyhän Markovian luostariin Krezk as an eventual destination. He notes it was once a bastion of good, and may yet still offer some protection.
 
 > [!lore] **Who Knows of the Abbey?**
-> All Barovians know that the Abbey of St. Markovia lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of St. Andral's Church, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago. 
+> All Barovians know that the Pyhän Markovian luostari lies in the village of Krezk. Most outside of Krezk are unsure as to whether it still operates, though rumors abound that Strahd destroyed it long ago, leaving nothing more than ghosts to haunt its halls. A few Vallakians, including Father Lucian Petrovich of Pyhän andralin kirkko, know that the Abbey was reopened more than one hundred years ago, but none beyond Krezk know that the Abbey's current abbot is the same man who reopened its doors over a century ago.
 
 ### Return to the Mansion
 When the players return to the burgomaster’s manor following the burial, [[Non-Player Characters#Ireena Kolyana|Ireena]] and [[Non-Player Characters#Ismark Kolyanovich|Ismark]] prepare a light breakfast while speaking with the players about their next steps. The conversation largely proceeds as follows unless redirected by the players:
 
-* Ismark confirms that St. Andral's Church in Vallaki is Ireena's destination.
-* Ireena asks the players about their destination or plans in Vallaki, as well as whether they expect to make any stops along the road there.
+* Ismark vahvistaa että Ireenan pitäisi mennä [[Pyhän Andralin kirkko]]on [[Vallaki]]ssa
+* Ireena kysyy pelaajilta josko heillä on suunnitelmia Vallakissa ja josko he aikovat pysähtyä matkalla
 * If the players have mentioned their intent to visit Tser Pool, Ismark notes that the journey to Vallaki is more than a day's travel if the players plan to visit Tser Pool first, and that Ireena and the players will likely need to spend a night on the road. He recommends doing so at Tser Pool itself.
-* If the players haven't mentioned their intent to visit Tser Pool, Ismark notes that the Svalich Road can be dangerous, and advises the players to set a waypoint to rest and recuperate along the way. (Better to be cautious, he says, than to rush into a more taxing journey than necessary.) He suggests Tser Pool as a potential waypoint.
+* Jos pelaajat ovat maininneet aikovansa käydä [Tserin altailla](Locations/Tserin altaat), Ismark toteaa sen olevan fiksua.
+* Jos pelaajat eivät ole maininneet aikovansa käydä [Tserin altailla](Locations/Tser pool), Ismark toteaa [Svalichin tien](Locations/Vanha Svalichin tie) olevan vaarallinen ja ehdottaa, että pelaajat ottaisivat itselleen välietapiksi [[Tserin altaat]].
 * In either case, Ismark notes that Tser Pool is a bit under two hours' journey from Barovia. (Though some Vistani are rumored to be in league with Strahd, Tser Pool is known to be a safe place for travelers to spend the night, especially given the reputation of the Vistani leader, Madam Eva.)
+* Kummassakin tapauksessa Ismark toteaa Tserin altaiden olevan hieman alle kahden tunnin matkan päässä Baroviasta ja olevan turvallinen. Vaikka joidenkin Vistanien arvellaan tekevän yhteistyötä Strahdin kanssa, Tserin altailla ei ole koskaan tapahtunut mitään. Olisi vaikeaa kuvitella että tapahtuisikaan, ottaen huomioon että se on Matami Evan majapaikka
 
 Given the short distance to Tser Pool, Ireena tells the party that she'll be ready to leave at noon. Until then, the players are free to explore the village, shop at Bildrath's Mercantile, or otherwise pass the time.
-## B5e. Lugdanna's Knoll
-Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.) 
+## B5e. Lugdannan kumpu
+Approximately an hour before noon, [[Non-Player Characters#Ireena Kolyana|Ireena]] quietly slips out of the mansion, walking to Lugdana's Knoll, a small, quiet hill to the north of Barovia. (The hill is named for the paladin Lugdana, who, according to legend, first met Burgomaster Ismark Antonovich the Great upon that hill.)
 
-Shortly before noon, if the players haven't been keeping track of her, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently briefing a pair of Barovian **scouts** regarding Gertruda's disappearance—notes Ireena's absence with minor concern and asks the players to find her and bring her home. 
+Shortly before noon, if the players haven't been keeping track of her, [[Non-Player Characters#Ismark Kolyanovich|Ismark]]—who's currently briefing a pair of Barovian **scouts** regarding Gertruda's disappearance—notes Ireena's absence with minor concern and asks the players to find her and bring her home.
 
-Because Strahd and his servants have only visited at night, Ismark isn't notably alarmed by Ireena's absence, but still wants to see her brought home as quickly as reasonably possible. Ismark advises that the players check Lugdana's Knoll first—one of Ireena's favorite spots around the village—and provides brief directions to get there. 
+Because Strahd and his servants have only visited at night, Ismark isn't notably alarmed by Ireena's absence, but still wants to see her brought home as quickly as reasonably possible. Ismark advises that the players check Lugdana's Knoll first—one of Ireena's favorite spots around the village—and provides brief directions to get there.
 
 If the players visit the knoll, read:
 
 <div class="description">
-<p>As you pass through the sea of tall grasses north of the village, a gentle knoll rises before you, bordered on the far side by the clutches of the dark Svalich Wood. Plants with white, feathery flowers and a sweet, earthy scent seem to dance amidst the grass atop the hill, their leaves rustling in a whispering wind.</p>
-<p>A lonely tree stands atop the hill, its gnarled branches reaching skyward like outstretched arms. Beneath its shade kneels a female figure, her gaze fixated upon the ground.</p>
+<p>Kulkiessanne ruohomeren läpi kylän pohjoispuolella, edessänne kohoaa lempeä kumpu, jonka toisella puolella kohoavat tummat Svalichin metsän rungot. Kasvit, joissa on valkoiset, höyhenmäiset kukat ja makea, maanläheinen tuoksu, tanssivat tuulessa nurmikon keskellä kukkulan huipulla.</p>
+<p>Yksinäinen puu seisoo kukkulan huipulla. Sen ryppyiset oksat ojentuvat taivasta kohti kuin ojennetut kädet. Puun alla on polvistuneena naishahmo, jonka katse on kiinnitetty maahan.</p>
 </div>
 
 The figure is Ireena, who has adorned her chestplate and rapier. As the players approach, they can see that she is using a trowel to dig a hole in the earth between the tree's roots. Ireena, fixated upon her work, doesn't notice the players until they call out to her or otherwise enter her field of view.
@@ -647,16 +654,23 @@ The bracelet holds no sentimental value for Ireena, and she doesn't remember why
 
 The silver bracelet, which is tarnished and clearly hundreds of years old, is worth 100 gp and bears an intricate pattern of the moon and stars along the exterior, with a moonstone gem embedded at the center of the moon and five lapis-lazuli serving as the stars. On the inside of the bracelet, in tiny, elegant script, the following message is engraved in Common: "Tatyana: May you find your path, and may you find light even in the darkest places—Mother & Father."
 
-Ireena doesn't know who Tatyana is. (Unbeknownst to Ireena, the bracelet was a gift from Tatyana Federovna's parents on Tatyana's eighteenth birthday. It was lost in the Svalich Wood when Tatyana leapt to her death from the Castle Ravenloft overlook.)
+Ireena doesn't know who Tatyana is. (Unbeknownst to Ireena, the bracelet was a gift from Tatyana Federovna's parents on Tatyana's eighteenth birthday. It was lost in the Svalich Wood when Tatyana leapt to her death from the Varisylisen linna overlook.)
 
-After sharing the items in the chest, Ireena apologizes to the players. "I'm not certain if my brother has been entirely forthright to you," she says, not meeting their eyes. "But—perhaps it's easier if I show you." She then removes her scarf, revealing the bite scars upon her neck. She can then share the following information:
+After sharing the items in the chest, Ireena apologizes to the players.
+```
+"En tiedä onko veljeni kertonut teille kaiken" Ireena sanoo. Hänen katseensa suuntautuu takananne olevalle tielle. "Lienee helpompaa... jos näytän teille." Ireena riisuu huivinsa, jonka alta paljastuu kaksi punoittavaa puremajälkeä.
+```
+She can then share the following information:
 
-* The creature hunting her is none other than the Devil of Castle Ravenloft himself—and he has twice visited her in recent days, drinking her blood before vanishing into the night. 
-* The first night, Strahd charmed her and Ismark at the front door and commanded them to invite him inside. The second night, when they locked and barred the door, Strahd came to her bedroom window instead. (Strahd's visits are why the siblings have boarded up their windows and installed the locks on the door—for fear he might find his way inside once again.)
 
-"I don't know why he hasn't killed me or turned me," Ireena says, gritting her teeth as her hands curl into fists. "I don't know if this is some kind of sick game he's playing, or if he just likes to see people suffer."
+* Ireenaa ahdisteleva olento on Varisylisen linnan paholainen. Hän käynyt kahdesti Ireenan luona. Molemmilla kerroilla Strahd on juonut Ireenan verta ja kadonnut sen jälkeen yöhön.
+* Ensimmäisellä kerralla Strahd hurmasi Ireenan ja Ismarkin ovella ja käski heitä kutsumaan itsensä sisälle. Toisena yönä Strahd oli Ireenan ikkunan ulkopuolella.
 
-The anger leaves her as she adds, somberly, "But now you know the truth." Her voice chokes as she adds, "They say women with red hair bring bad luck. I'm sorry—I never wanted to bring any to you." (She is grateful for any reassurances the players might offer.)
+```
+"En tiedä miksi hän ei ole tappanut tai muuttanut minua," Ireena sanoo. Hän puree leukojaan yhteen ja hänen kätensä puristuvat nyrkkiin. "En tiedä onko tämä hänelle jonkinlainen sairas peli. Tai ehkä hän vain nauttii nähdessään ihmisten kärsivän?"
+
+"Mutta nyt tiedätte totuuden", hän sanoo, selkeästi helpottuneena. "Sanovat, että punahiuksiset naiset tuovat huonoa onnea". Ireenan ääni murtuu. "Olen pahoillani, en... en halunnut olla teille pahanilmanlintu"
+```
 
 Ireena gladly returns to the mansion with the players, or returns on her own shortly after noon if the players failed to find her. She then retrieves a packed traveling bag from her room.
 
@@ -721,7 +735,7 @@ The first floor of this old, dirty dwelling comprises a one-room divided living 
 
 A small sitting area to the south contains a fireplace, two comfortable armchairs, and a dirty rug. Stairs lead up from here to the second floor.
 
-The second floor corridor contains three wooden doors. One leads to a bathroom with an unemptied chamber pot and a bowl of dirty bathwater. Another leads to Mary’s bedroom, which holds a writing desk and a bed. (If found here, Mary is sitting on the bed, quietly sobbing.) 
+The second floor corridor contains three wooden doors. One leads to a bathroom with an unemptied chamber pot and a bowl of dirty bathwater. Another leads to Mary’s bedroom, which holds a writing desk and a bed. (If found here, Mary is sitting on the bed, quietly sobbing.)
 
 The third door, which is slightly ajar, leads to Gertruda’s bedroom; a tray holding a broken tea kettle and cup has shattered on the floor before it. (Mary was bringing Gertruda tea when she found her daughter missing, and dropped it in horror.)
 
@@ -733,9 +747,9 @@ Morgantha has been relocated from the village of Barovia to the Barovian refugee
 
 ***The Blood on the Vine Tavern.*** The statue of Ismark the Great has been added to clearly set up Ismark's personal struggles to define himself apart from his ancestor, and to foreshadow the tale of Lugdana and the *Holy Symbol of Ravenkind* that the players will hear at Tser Pool.
 
-Arik has been made the sole owner of the tavern to create a sharper distinction between the Barovians and the Vistani. 
+Arik has been made the sole owner of the tavern to create a sharper distinction between the Barovians and the Vistani.
 
-Ismark has been intentionally made a friendlier and more sympathetic character to encourage the players to build a warm and trusting relationship with him and his sister, Ireena. 
+Ismark has been intentionally made a friendlier and more sympathetic character to encourage the players to build a warm and trusting relationship with him and his sister, Ireena.
 
 Mad Mary's plea has been relocated to the tavern and combined with Ismark's introduction to create a more dramatic and engaging opportunity for the players to learn about the village's plight.
 
@@ -757,7 +771,7 @@ Ireena Kolyana is intentionally not offered as a potential player character—de
 
 ***The Barovian Church.*** Parriwimple has been placed by the entrance to the church to inspire curiosity regarding Donavich's strange behavior and Doru's ultimate fate, and to further develop the tragedy endured by the residents of the village.
 
-The plotline involving Donavich's holy symbol and Doru's blood trial has been added to provide the players with an opportunity to interact with Doru, to enhance the exposition with dramatic tension, and to teach the players that NPCs generally should be aided, not attacked. The players' conversation with Doru also sets up Gertruda's and Escher's presence in Castle Ravenloft and introduces Dr. Rudolph van Richten.
+The plotline involving Donavich's holy symbol and Doru's blood trial has been added to provide the players with an opportunity to interact with Doru, to enhance the exposition with dramatic tension, and to teach the players that NPCs generally should be aided, not attacked. The players' conversation with Doru also sets up Gertruda's and Escher's presence in Varisylisen linna and introduces Dr. Rudolph van Richten.
 
 ***The Burial.*** This guide intentionally foregoes two popular community additions to the burgomaster's burial: Rahadin's delivery of Strahd's condolences and  Strahd's silent observation of the ceremony
 

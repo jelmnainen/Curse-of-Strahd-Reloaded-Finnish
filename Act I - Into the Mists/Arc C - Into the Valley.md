@@ -24,28 +24,41 @@ The journey from the village of Barovia to the River Ivlis Crossroads is three m
 ## C1a. The Barovian Scouts
 As the players travel, read:
 
-<div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
-<p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
+<div class="description"><p>Lähtiessänne hiljaisesta Barovian kylästä vanhalle Svalichin tielle jalkojenne ympärillä hiipii sumu. Korkea, vaaleanvihreä ruohomeri levittäytyy edessänne molemmin puolin tietä, aina Ivlis-joen reunaan asti. Yläpuolella taivas on himmeän harmaa. Tummana roikkuvat pilvet lupaavat sadetta.</p>
+<p>Hetken ajan päästä näette vanhan kaarevan kivisillan, joka ylittää sen alla juoksenvan kirkkaan sinisen joen. Kivisiltaa seuraa mutainen tie, joka kiemurtelee puiden läpi. Ilmassa on paksu kostean maan ja lahoavien lehtien tuoksu. Puut tuntuvat painautuvan ahdistavan lähelle luoden syviä varjoja tiehen.</p></div>
 
-If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
+If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog:
+<div class="description">
+  <p>
+    Kuka siellä? Tunnistautukaa!
+  </p>
+</div>
 
 The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga. The two warily demand to know if the players are spies or servants of Strahd. If reassured, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
 
 If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
 
-The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
+The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. `(Tummatukkaisia; äidillä punainen leninki; tässä tapauksessa vain yksi lapsi koska neljä pelaajaa)` After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
 
 Shortly after the players resume their trek down the Old Svalich Road, a light drizzle begins to fall, stirring a fine mist that drifts through the underbrush.
 ## C1b. Van Richten’s Cache
 As the players continue down the road, read:
 
-<div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
+<div class="description">
+  <p>
+    Matkustaessanne syvemmälle metsään mutainen tie vie teitä kauemmas ja kauemmas sivilisaatiosta. Tien kaarteessa, törmäätte jokeen. Täällä joki on leveämpi, sen vesi tumma ja tyyni. Sen pinnassa näkyy puiden heijastus ja sumua. Hiljaisen, valuvan veden äänen kohtaa vain lehtien kahina ja pehmeä tihkusade. Edes linnunlaulu ei riko hiljaisuutta, joka leijuu metsän yllä.
+  </p>
+</div>
 
 If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
 
 <div class="description">
-<p>You step from the road and into the woods, crossing the treeline as your feet squelch into mud and loamy soil. Wisps of fog curl across the earth around you, gnarled trees reaching their arms overhead as gray light filters through the canopy. You walk for three hundred paces, stepping softly through the mulch and mist until you arrive at a clearing, the woods parting to make room for a tall, ancient oak whose knotted black trunk rises far above its peers.</p>
-<p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. A sixth figure, bearing the remnants of tattered leather armor, stands just beside the tree, its white eyes staring dully into the canopy overhead. This figure’s flesh, though rotting, is a smooth, sickly white, its skin run through with raised, crimson veins. A faint cloud of reddish mist spills from its mouth and down onto the forest floor around it before dissipating into the air.</p>
+  <p>
+    Astutte tieltä metsään, ylitätte puurajan, jalkanne astuvat mutaan ja savimaahan. Sumun  kiertyyy ympärillenne, ryppyiset puut ulottavat käsivartensa yläpuolelle, kun harmaa valo suodattuu katoksen läpi. Kävelette kolmesataa askelta ja astut pehmeästi mullan ja sumun läpi aukeamalle, jossa metsä erkanee tehdäkseen tilaa korkealle, ikivanhalle tammelle, jonka musta runko kohoaa paljon ikätovereidensa yläpuolelle.</p>
+
+  <p>
+    Ymmärrätte pian, ettette ole yksin. Viisi hahmoa laahustaa päämäärättömästi aukiolla. Heidän vaatteensa ovat mutaiset ja repeytyneet ja heidän lihansa on alkanut muuttua vaaleanharmaaksi. Kuudes hahmo, jonka päällä on repaleisen nahkapanssarin jäänteitä, seisoo aivan puun vieressä, tuijottaen tylsistyneenä puiden latvoja maitomaisilla silmillään. Vaikka tämän hahmon liha mätäneekin, se on sileää, sairaalloisen valkoista, ja sen ihon läpi kulkee kohonneita, karmiininpunaisia suonia. Heikko punertava sumupilvi valuu hahmon suusta alas sen ympärillä olevaan metsäpohjaan haihtuen muutaman metrin päässä.
+  </p>
 </div>
 
 The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys. The sixth figure is a **zombie plague spreader** (*Van Richten’s Guide to Ravenloft*, p. 255) created by Strahd, and the former leader of the undead siege. (Increase the **plague spreader's** hit points to 130, decrease the necrotic damage dealt by its ***slam*** to 5 (1d8), and decrease the damage dealt by its ***virulent miasma*** to 7 (2d6) poison damage per creature.)
