@@ -1,4 +1,7 @@
-# CoS - Finnish
+# THIS FORK IS NOT ACTIVELY MAINTAINED ANYMORE
+Well, unfortunately two of my players had to quit quite early into the campaign. This means I'm not actively maintaining the translation anymore. If you'd like to continue from here, feel free to reach out by opening an issue or sending me a DM over on Reddit (link below).
+
+## CoS - Finnish
 
 This is a fork of DragnaCarta's excellent [Curse of Strahd: Reloaded](https://www.strahdreloaded.com). It aims to provide all the parts which are meant to be spoken by the DM in decent Finnish. Please note that some parts might be left untranslated in this repo (I found the original repository after finishing Death House). I will update this while DMing my group, so updates should be periodical and slow. PRs welcome!
 
